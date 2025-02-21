@@ -10,16 +10,17 @@ rasch@raschnet.com
 
 ::: notes
 
-This is my note.
-
-- It can contain Markdown
-- like this list
-
+- participation comes in many forms
+- how are you going to show up?
+- 
 :::
 
 ## only how we react
 
 ## you are the problem
 
+## not really
 
-# the struggle bus
+## are you ready to be the hero?
+
+# the struggle bus {.text-hl data-background-image="bus.jpg"}
