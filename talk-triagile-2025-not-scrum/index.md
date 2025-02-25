@@ -3,6 +3,8 @@ title: Scrum is not the problem; it's you
 ---
 
 # Scrum is not the problem; it's you
+Meeting of the Minds 2025-02-21
+
 David Rasch (2025)
 
 [LinkedIn](https://linkedin.com/in/rasch)
@@ -76,7 +78,7 @@ story points are never mentioned, only "sizing"
 
 ## no
 
-Neither development nor delivery managers are mentioend in the scrum guide
+Neither development nor delivery managers are mentioned in the scrum guide
 
 
 ## Each Sprint may be considered a short project
@@ -94,7 +96,7 @@ Neither development nor delivery managers are mentioend in the scrum guide
 
 ::: {.incremental}
 - Work together
-- Empircism - science!
+- Empiricism - science!
 - Becoming good at LEARNING
 - Manage complexity!
 :::
@@ -177,3 +179,9 @@ one thing?
 1. [Modern Software Engineering](https://www.amazon.com/dp/B0BLXCXT3R/)
 1. [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 1. [ORSC](https://crrglobal.com/about/orsc/)
+
+## Some Thanks
+
+* Lori Anderson-Musgrave
+* Joe Reifer
+* Bryan Young
