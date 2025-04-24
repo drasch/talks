@@ -23,6 +23,10 @@ rasch@raschnet.com
 
 ## Who is this guy?
 
+- Engineer, Architect
+- Leader
+- Agilst
+
 
 ## we cannot change anyone else
 
