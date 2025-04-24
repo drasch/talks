@@ -3,41 +3,32 @@ title: Scrum is not the problem; it's you
 ---
 
 # Scrum is not the problem; it's you
+Meeting of the Minds 2025-02-21
 
-Working with "management"
-
-https://scrum.rasch.dev
-
-## Scrum is not the problem; it's you
-
-TriAgile 2025
-
-David Rasch
-
-2025-04-23
+David Rasch (2025)
 
 [LinkedIn](https://linkedin.com/in/rasch)
 [GitHub](https://github.com/drasch)
 
 rasch@raschnet.com
 
-## Who is this guy?
-
-
-## we cannot change anyone else
+## we cannot change anyone else {.text-hl data-background-image="https://rasch.photos/api/v1/t/b26f0026304a4bc995654c93eb5f92d682ac5c72/poqebamd/fit_4096"}
 
 ::: notes
 - come as you are
 - participation comes in many forms
 - how are you going to show up?
 - who came to listen to silence?
+
 :::
 
 ## only how we react
 
 ## you are the problem
 
-## and the hero!
+## not really
+
+## are you ready to be the hero?
 
 # the struggle bus {.text-hl data-background-image="bus.jpg"}
 
@@ -56,9 +47,7 @@ rasch@raschnet.com
 
 ## the scrum master shall share their screen during ceremonies
 
-## okay, for real now
-
-## each person should have at least one story to work for the sprint
+## each person should have a story to work this sprint
 
 ## no
 
@@ -81,17 +70,16 @@ story points are never mentioned, only "sizing"
 
 ## daily scrum has 3 questions
 
-## no
-
 > The Developers can select whatever structure and techniques they want, as
 > long as their Daily Scrum focuses on progress toward the Sprint Goal and
 > produces an actionable plan for the next day of work.
 
-## the dev/delivery manager is not part of the team
+## the dev manager is not part of the team
 
 ## no
 
 Neither development nor delivery managers are mentioned in the scrum guide
+
 
 ## Each Sprint may be considered a short project
 
@@ -107,7 +95,6 @@ Neither development nor delivery managers are mentioned in the scrum guide
 # core of agile
 
 ::: {.incremental}
-- get something done
 - Work together
 - Empiricism - science!
 - Becoming good at LEARNING
@@ -134,7 +121,6 @@ how many backlogs are there?
 
 ::: notes
 - we haven't talked about "management" much yet
-- coaching plans
 - do you have a common backlog within your group?
 - what are you trying to accomplish that's different from other priorities?
 :::
@@ -189,10 +175,6 @@ one thing?
 - question you might ask
 :::
 
-# feedback
-
-![Please share any Feedback!](Session_2_Feedback_11_15am_-1024.png)
-
 # References
 1. [Modern Software Engineering](https://www.amazon.com/dp/B0BLXCXT3R/)
 1. [Scrum Guide](https://scrumguides.org/scrum-guide.html)
@@ -200,6 +182,6 @@ one thing?
 
 ## Some Thanks
 
+* Lori Anderson-Musgrave
 * Joe Reifer
 * Bryan Young
-* Jennifer Fields
